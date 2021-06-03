@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An expedient, which with an easier burden to the subject may raise an equivalent to the salt-duty, if that be laid aside.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22749</idno><idno type="EEBO-CITATION">99895013</idno>
+  <idno type="VID">186297</idno>
+  <idno type="EEBO-PROQUEST">2240929059</idno>
+  
+            <idno type="STC">Wing E3876</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[97]</idno>
+            <idno type="STC">ESTC T80618</idno>
+            <idno type="PROQUEST">ocm99895013</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895013e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22749)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186297)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[94])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An expedient, which with an easier burden to the subject may raise an equivalent to the salt-duty, if that be laid aside.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1695 and 1705]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated 1705? by Hanson, 1695? by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tax assessment --  England --  Early works to 1800.</term>
+               <term type="topical_term">Salt --  Taxation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Tariff on candles --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186297:1"/>
+            <head>AN EXPEDIENT, <hi>Which with an Easier Burden to the Subject may raise an Equi<g ref="char:EOLhyphen"/>valent to the</hi> Salt-Duty, <hi>if that be laid aside.</hi>
+            </head>
+            <p>THAT every Man, Woman, and Child, pay Four Pence <hi>per An.</hi>
+            </p>
+            <p>If there be Eight Millions of People in <hi>England,</hi> this will amount to One Hundred Thirty Three Thousand, Three Hundred Thirty Three Pounds and a Noble, which is more then the Salt Duty brings at present.</p>
+            <p n="1">I. <hi>Object.</hi> A <hi>Poll Tax</hi> is accounted to lie very hard on Poor People.</p>
+            <p>
+               <hi>Ans.</hi> The Salt lies much harder on them, they feeding much on Bacon. There are I believe very few People, who pay less then Eighteen Pence <hi>per An.</hi> for the Salt they eat, more then they were <hi>wont</hi> to do before this Duty.</p>
+            <p n="2">II. <hi>Object.</hi> If a Groat <hi>per An. per</hi> Head, afford 133333 <hi>l. 6s. 8d.</hi> then Four Shillings <hi>per</hi> Head <hi>per An.</hi> will consequently afford Sixteen Hundred Thousand Pounds, and at this Rate the <hi>Poll-Tax,</hi> at Four Shillings <hi>per</hi> Head would amount thereto.</p>
+            <p>
+               <hi>Ans.</hi> In the <hi>Poll-Tax,</hi> Poor People who receive Alms, and the Children of Day Labourers, <hi>&amp;c.</hi> are excepted.</p>
+            <p n="3">III. <hi>Object.</hi> It can't be expected such as receive Alms of the Parish, <hi>&amp;c.</hi> should pay the Four Pence <hi>per</hi> Head.</p>
+            <p>
+               <hi>Ans.</hi> The Parish may pay for them, 'Twill be easier to the Parish to pay Four Pence <hi>per</hi> Head for their Poor, then to make the Poor pay so dear for their Salt; indeed the Burden of this lies chiefly on those who maintain the Poor; such as can't keep themselves are supported by the Parish, and the Parish had better pay a Groat <hi>per</hi> Head, then a Shilling <hi>per</hi> Head, which at least they do for the most part, now Salt is so dear.</p>
+            <p n="4">IV. <hi>Object.</hi> How can it be ordered so as that every body pay a Groat?</p>
+            <p>
+               <hi>Answ.</hi> By ordering every Parish to give in an Alphabetical List of all its Inhabitants, this being Printed, and exposed to publick View, by posting it up in its respective Parish, and in some Neighbouring Parishes, in the most convenient Places of resort in the said Parishes, 'twill easily appear who are Taxed and who are not; and in Case a Penalty be, That every one who is not Taxed within the Year, pay Treble what he ought to pay, one half to the Informer, the other half to the Queen, but few if any are like to escape Taxing.</p>
+            <p>As this will ease the Country, so likewise will it at once remedy all the Inconveniencies accompanying the <hi>Salt-Duty,</hi> and be <hi>a great help to Trade in many Respects.</hi>
+            </p>
+            <p>That a Tax on <hi>Candles</hi> at Two Pence <hi>per</hi> Pound, may raise half a Million Sterling <hi>per An.</hi> 'Tis supposed that in <hi>England</hi> are killed yearly upwards of Two Millions of Neats, some whereof afford the Tallow-Chandler about Eight or Nine Stone of Tallow, and some about Two Stone; but supposing that one with another, they afford Four Stone each, altogether will amount to Eight Millions of Stones. The Sheep killed may afford at least one Fourth of what the Neats yield; for altho a dozen Sheep afford not so much Tallow as one Neat, yet they much exceeding in Number, may afford as above said, altogether about Ten Millions of Stones to the Tallow-Chandler. This at Two Pence <hi>per</hi> Pound, will amount to near Seven Hundred Thousand Pounds Sterling.</p>
+            <p>An Expedient proposed how this may be raised without extravagant Charge to the Publick.</p>
+            <p>That some Towns in each County be appointed whereto every one who makes Candles, shall be obliged First to bring, weigh, and enter his Tallow before he use it, he to be allowed Two Pence <hi>per</hi> Stone for his trouble of bringing it upwards of Six Miles, and a Penny <hi>per</hi> Stone for all he brings less then Six Miles. This will eat out about three half Pence <hi>per</hi> Stone, and not much more, if it be so laid out, as that none be obliged to carry his Tallow above Twelve Miles to be entred.</p>
+            <p>That Two Pence <hi>per</hi> Stone Drawback, be allowed to every Tallow-Chandler for Prompt Payment, in Case he pay his Duty at the weighing of his Tallow, so this will bring down the Excise in clear Money to about Twelve-Pence <hi>per</hi> Stone, which amounts in the whole at this Rate to about Five Hundred Thousand Pounds. Every one being obliged to carry his Tallow to the Place appointed, and there to enter and pay for it, 'twill require little or no charge to collect it.</p>
+            <p>If a Penalty be laid on such as transgress in Non-Entry of what they use, of paying about Four<g ref="char:EOLhyphen"/>fold for what they so use for the First Offence, double as much for the Second Offence, and for the Third Offence, to be incapacitated from making and vending Candles, this may in great measure prevent and perhaps remedy all or most Frauds.</p>
+            <p>I suppose few will grutch giving Two Pence <hi>per</hi> Pound extraordinary for their Candles, if they thought 'twould raise Five Hundred Thousand Pounds <hi>per An.</hi> to the Publick.</p>
+            <p>Six Pence <hi>per</hi> Pound may be laid on Wax-Candles, not because 'tis like to raise much Money, but if nothing be laid on that sort of Candles, when Tallow-Candles are about Eight Pence <hi>per</hi> Pound, People will be apt to use Wax-Candles, unless a Duty be laid on them.</p>
+            <p>None of these Expedients will wast much Money on Excise Officers, who are the Bane of most Taxes. Indeed about one Eight part that will arise from the Tallow, which is for carrying to and fro, is a Charge to the Country; Howbeit 'tis dilated and expended in the Country, and does not extend any thing near to the Charge expended in Collecting other Excises.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:186297:2"/>
+            <p>AN EXPEDIENT, How to Remedy the Inconveniencies of the <hi>Salt-Duty,</hi> and how to raise 500000 <hi>l. per An.</hi> from Candles.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
